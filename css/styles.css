@@ -1,0 +1,49 @@
+.webdesignp{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+
+#wd{
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+    color: deeppink;
+}
+
+#usability{
+    width: 100%;
+    height: 600px;
+    background-color: lime;
+}
+
+#consis{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(255, 0, 0);
+    color: deeppink;
+}
+
+#nav{
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+    color: deeppink;
+}
+
+#whitespace{
+
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    color: deeppink;
+}
+
+#sitelayout{
+
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    color: deeppink;
+}
